@@ -1,5 +1,7 @@
 # Persistent File Restoration on Linux Using systemd Path + Service Units
 
+A practical pattern to ensure critical files are restored automatically using systemd path and service units, without cron or daemons.
+
 ### Using systemd Path Units (Without Cron or Daemons)
 
 ## Why this problem exists
