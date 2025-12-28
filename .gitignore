@@ -1,14 +1,14 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+# Temporary files
+*.swp
+*.swo
+*~
 
-pkg/
-src/
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# System files
+.DS_Store
